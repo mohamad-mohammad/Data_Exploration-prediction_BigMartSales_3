@@ -2,7 +2,8 @@
 
 
 predict sales for several kind of outlet
-\n Dataset used: Bigmart_SalesIII
+
+Dataset used: Bigmart_SalesIII
 
 ![1](https://user-images.githubusercontent.com/42949071/61793651-44efc580-ae28-11e9-8ee0-2473a778c631.PNG)   
 
